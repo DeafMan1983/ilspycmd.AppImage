@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=ILSpy Console
+Exec=ilspycmd %F
+Icon=ILSpy
+Type=Application
+Categories=
+Comment=Decompilation with C#
+Name[en]=ilspycmd
+Terminal=false
+StartupNotify=true
+NoDisplay=false
+Name[en_US]=ILSpy.desktop
