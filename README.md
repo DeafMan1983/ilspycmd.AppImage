@@ -1,4 +1,4 @@
-# IlSpy.AppImage
+# AppImage ilspycmd
 ILSpy into AppImage
 
 It is simple AppImage with ILSpy Console
