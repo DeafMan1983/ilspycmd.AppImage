@@ -11,3 +11,5 @@ Enjoy your bundled ILSpy Console
 
 ./ilspycmd --help
 like in https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console
+
+PS: @christophwille ignores to answer me :( :( He doesn't understand me. :( :( I will move to Archived Page. 
